@@ -26,10 +26,10 @@ public class Main {
         System.out.println("25 == 43 = " + (u == i));
 
         System.out.println("a + b = " + (a + b));
-        System.out.println("a + b = " + (a - b));
-        System.out.println("a + b = " + (a * b));
-        System.out.println("a + b = " + (a / b));
-        System.out.println("a + b = " + (a % b));
+        System.out.println("a - b = " + (a - b));
+        System.out.println("a * b = " + (a * b));
+        System.out.println("a / b = " + (a / b));
+        System.out.println("a % b = " + (a % b));
 
     double f, c;
         f = 20;
